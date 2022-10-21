@@ -10,3 +10,4 @@ To access this website, visit the link provided below. All of the links within t
 
 [Horiseon Social Solution Services, Inc.](https://mandiebot.github.io/challenge1/)
 
+[Screenshot of Deployed Application](assets/images/Screenshot%20of%20Deployed%20Application.png)
