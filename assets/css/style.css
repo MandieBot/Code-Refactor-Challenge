@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* modified to header element selector */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -70,12 +71,13 @@ p {
   margin-left: 25px;
 }
 
+/* modified main to element selector */
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
+/* condensed each benefit within aside */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -103,6 +105,7 @@ aside {
   max-width: 150px;
 }
 
+/* modified class element and reduced redundancy */
 .information {
   margin-bottom: 20px;
   padding: 50px;
